@@ -1,7 +1,5 @@
 import java.util.BitSet;
-/**
- * Created by Grigorii on 06.10.2017.
- */
+
 public class Decoder {
 
 	private Code code;

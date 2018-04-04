@@ -1,7 +1,5 @@
 import java.util.Scanner;
-/**
- * Created by Grigorii on 06.10.2017.
- */
+
 public class Coder {
 
 	static Code code;

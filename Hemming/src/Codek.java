@@ -7,9 +7,6 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.util.BitSet;
 
-/**
- * Created by Grigorii on 06.10.2017.
- */
 public class Codek {
 
 	public static String subSCode(String line){
