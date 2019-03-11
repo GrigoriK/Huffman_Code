@@ -17,7 +17,7 @@ public class Main {
                 Coding.Delete(writeC,"SYMBOL   WEIGHT   HUFFMAN CODE" );
                 Coding.printCodes(tree,writeC, new StringBuffer() ,Coded);
                 Coding.Write(Coded,CodeT,book);
-                Coding.Delete(DecodeD,"ƒекодированный текст" );
+                Coding.Delete(DecodeD,"текст после декодировани€" );
                 Decoding.Decode(tree,DecodeD,CodeT);
                         
                
